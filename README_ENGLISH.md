@@ -2,7 +2,8 @@
 ## for TShock5 by FrankV2
 ## Translation: [FrankV22](https://github.com/itsFrankV22)
 
-If you speak another language please visit [README_ENGLISH]()
+> [!NOTE]
+>Si hablas otro idioma por favor visita [README_SPANISH](https://github.com/itsFrankV22/EssentialsPlus-ES-EN-x64/blob/main/README.md)
 
 
 Essentials+ is a combination that improves and optimizes some functions from Essentials and MoreAdminCommands. All commands are executed asynchronously. Flag commands are not included.
