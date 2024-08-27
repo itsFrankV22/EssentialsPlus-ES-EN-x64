@@ -1,7 +1,9 @@
 # EssentialsPlus
-## para TShock5 por Average#1305
+## para TShock5 por FrankV2
 ## Traducción: [FrankV22](https://github.com/itsFrankV22)
-# EssentialsPlus para TShock5, por Average#1305
+
+If you speak another language please visit [README_ENGLISH]()
+
 
 Essentials+ es una combinación que mejora y optimiza algunas funciones de Essentials y MoreAdminCommands. Todos los comandos se ejecutan de forma asíncrona. No se incluyen comandos de banderas.
 
@@ -58,8 +60,17 @@ Essentials+ es una combinación que mejora y optimiza algunas funciones de Essen
 - essentials.tp.right -> Permite el uso del comando /right.
 - essentials.tp.up -> Permite el uso del comando /up.
 
+#INFO
+E compilado y traducido este plugin con el fin de permitir a otras personas novatas como yo en mi momento poder obtener esto mas facil
+
+
+> [!NOTE]
+> Esta traduccion es de google traductor viene del chino simplificado asi que puede que tenga errores en gramatica y ortografia
+
+> [!WARNING]
+> Estoy practicando en el lenguaje C# asi que puede que esto tenga errores
 
 ## Soporte y Comentarios
-
+- Esta es una mejora del repostorio original [EssentialsPlus](https://github.com/THEXN/EssentialsPlus/)
 - Si encuentras problemas o tienes sugerencias, no dudes en reportarlos en el foro oficial o en la comunidad.
 - Repositorio de GitHub: https://github.com/THEXN/EssentialsPlus/
