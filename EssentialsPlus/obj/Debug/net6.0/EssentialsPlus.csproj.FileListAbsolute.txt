@@ -1,0 +1,14 @@
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\bin\Debug\net6.0\HttpServer.dll
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\bin\Debug\net6.0\EssentialsPlus.deps.json
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\bin\Debug\net6.0\EssentialsPlus.dll
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\bin\Debug\net6.0\EssentialsPlus.pdb
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.csproj.AssemblyReference.cache
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.AssemblyInfoInputs.cache
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.AssemblyInfo.cs
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.csproj.CoreCompileInputs.cache
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.sourcelink.json
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.dll
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\refint\EssentialsPlus.dll
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\EssentialsPlus.pdb
+C:\Users\FrankV22\Source\Repos\EssentialsPlus\EssentialsPlus\obj\Debug\net6.0\ref\EssentialsPlus.dll
