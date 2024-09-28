@@ -1,5 +1,6 @@
 # EssentialsPlus
-## para TShock5 por FrankV2
+## para TShock5 por [FrankV22](https://github.com/itsFrankV22)
+
 ## Traducción: [FrankV22](https://github.com/itsFrankV22)
 
 > [!NOTE]
@@ -70,6 +71,8 @@ E compilado y traducido este plugin con el fin de permitir a otras personas nova
 
 > [!WARNING]
 > Estoy practicando en el lenguaje C# asi que puede que esto tenga errores
+# [FrankV22](https://github.com/itsFrankV22)
+
 
 ## Soporte y Comentarios
 - Esta es una mejora del repostorio original [EssentialsPlus](https://github.com/THEXN/EssentialsPlus/)
