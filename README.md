@@ -1,5 +1,4 @@
 # EssentialsPlus
-[![Build Status]([https://github.com/itsFrankV22](https://avatars.githubusercontent.com/u/178752081?v=4&size=64))]
 ## para TShock5 por [FrankV22](https://github.com/itsFrankV22)
 
 ## Traducción: [FrankV22](https://github.com/itsFrankV22)
